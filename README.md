@@ -2,7 +2,7 @@
 A Computer Engineer with a strong focus on Machine Learning Engineering and ML theory.
 
 - 💻 I’m currently working as a Software Developer.
-- 🌱 I’m currently learning **MLOps, TFX and GCP**
+- 📖 I’m currently learning **MLOps, TFX and GCP**
 
 <p align="left">
 </p>
