@@ -1,8 +1,8 @@
 ## Hi, I'm Juan
-A Computer Engineer with a strong focus on Machine Learning Engineering and ML theory.
+A Computer Engineer with a strong focus on Machine Learning Engineering and Data Engineering.
 
 - 💻 I’m currently working as a Software Developer.
-- 📖 I’m currently learning **MLOps, TFX and GCP**
+- 📖 I’m currently learning **MLOps, TFX, GCP and Apache Airflow**
 
 <p align="left">
 </p>
